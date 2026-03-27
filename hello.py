@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 def main():
-    print("Hello, World!")
+    print("Hello, Rebased World!")
 
 if __name__ == "__main__":
     main()
