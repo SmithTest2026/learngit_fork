@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick.
 Fast-Forward mode is forbidden.
-Use stash function for temp bug fix.
+Git is a free software.
